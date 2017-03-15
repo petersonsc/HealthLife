@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">firstapp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_cad__pessoal">Cad_Pessoal</string>
+    <string name="title_activity_cad__conta">Cad_Conta</string>
+    <string name="title_activity_treino">Treino</string>
+    <string name="title_activity_dieta">Dieta</string>
+    <string name="title_activity_runner">Runner</string>
+    <string name="title_activity_anti__sedentary">Anti_Sedentary</string>
+</resources>
